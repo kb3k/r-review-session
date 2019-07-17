@@ -29,29 +29,32 @@ data(package = .packages(all.available = TRUE)) # gives me some warning messages
 # for any csv data your computer can handle
 # hint: use Kaggle or data.gov for reliable data
 
-
 ##############
-##### e. installing a library
-##############
-
-##############
-##### f. using a library
+##### e. datatypes and creating functions
 ##############
 
 ##############
-##### g. for loops
+##### f. for loops
 ##############
 
 ##############
-##### h. all the applies, what they do, what they mean
+##### g. all the applies, what they do, what they mean
 ##############
 
 ##############
-##### i. decision tree and/or neural network
+##### h. installing a library
 ##############
 
 ##############
-##### j. connecting R to MySQL database
+##### i. using a library
+##############
+
+##############
+##### j. decision tree and/or neural network
+##############
+
+##############
+##### k. connecting R to MySQL database
 ##############
 
 
