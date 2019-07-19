@@ -43,7 +43,7 @@ data(package = .packages(all.available = TRUE)) # what does this do?
 ##### d. import and clean data from csv
 ##############
 
-# use read_csv to import data downloaded from Kaggle, data.gov or some other (reliable) source
+# use read.csv to import data downloaded from Kaggle, data.gov or some other (reliable) source
 # HINT: store (extract if zip) your downloaded data to your working directory
 
 
